@@ -1,0 +1,450 @@
+[
+  {
+    "year": 1960,
+    "values": {
+      "Arablelandhectares": 0,
+      "Arablelandhectaresperperson": 0,
+      "Arablelandoflandarea": 0
+    }
+  },
+  {
+    "year": 1961,
+    "values": {
+      "Arablelandhectares": 156000000,
+      "Arablelandhectaresperperson": 0.34,
+      "Arablelandoflandarea": 52.4
+    }
+  },
+  {
+    "year": 1962,
+    "values": {
+      "Arablelandhectares": 157000000,
+      "Arablelandhectaresperperson": 0.335,
+      "Arablelandoflandarea": 52.7
+    }
+  },
+  {
+    "year": 1963,
+    "values": {
+      "Arablelandhectares": 157000000,
+      "Arablelandhectaresperperson": 0.33,
+      "Arablelandoflandarea": 53
+    }
+  },
+  {
+    "year": 1964,
+    "values": {
+      "Arablelandhectares": 158000000,
+      "Arablelandhectaresperperson": 0.323,
+      "Arablelandoflandarea": 53.1
+    }
+  },
+  {
+    "year": 1965,
+    "values": {
+      "Arablelandhectares": 158000000,
+      "Arablelandhectaresperperson": 0.318,
+      "Arablelandoflandarea": 53.2
+    }
+  },
+  {
+    "year": 1966,
+    "values": {
+      "Arablelandhectares": 159000000,
+      "Arablelandhectaresperperson": 0.312,
+      "Arablelandoflandarea": 53.3
+    }
+  },
+  {
+    "year": 1967,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.308,
+      "Arablelandoflandarea": 53.7
+    }
+  },
+  {
+    "year": 1968,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.302,
+      "Arablelandoflandarea": 53.8
+    }
+  },
+  {
+    "year": 1969,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.295,
+      "Arablelandoflandarea": 53.8
+    }
+  },
+  {
+    "year": 1970,
+    "values": {
+      "Arablelandhectares": 161000000,
+      "Arablelandhectaresperperson": 0.29,
+      "Arablelandoflandarea": 54
+    }
+  },
+  {
+    "year": 1971,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.282,
+      "Arablelandoflandarea": 53.7
+    }
+  },
+  {
+    "year": 1972,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.276,
+      "Arablelandoflandarea": 53.9
+    }
+  },
+  {
+    "year": 1973,
+    "values": {
+      "Arablelandhectares": 161000000,
+      "Arablelandhectaresperperson": 0.271,
+      "Arablelandoflandarea": 54.2
+    }
+  },
+  {
+    "year": 1974,
+    "values": {
+      "Arablelandhectares": 162000000,
+      "Arablelandhectaresperperson": 0.266,
+      "Arablelandoflandarea": 54.3
+    }
+  },
+  {
+    "year": 1975,
+    "values": {
+      "Arablelandhectares": 162000000,
+      "Arablelandhectaresperperson": 0.26,
+      "Arablelandoflandarea": 54.4
+    }
+  },
+  {
+    "year": 1976,
+    "values": {
+      "Arablelandhectares": 162000000,
+      "Arablelandhectaresperperson": 0.255,
+      "Arablelandoflandarea": 54.5
+    }
+  },
+  {
+    "year": 1977,
+    "values": {
+      "Arablelandhectares": 162000000,
+      "Arablelandhectaresperperson": 0.249,
+      "Arablelandoflandarea": 54.5
+    }
+  },
+  {
+    "year": 1978,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.245,
+      "Arablelandoflandarea": 54.9
+    }
+  },
+  {
+    "year": 1979,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.24,
+      "Arablelandoflandarea": 55
+    }
+  },
+  {
+    "year": 1980,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.234,
+      "Arablelandoflandarea": 54.8
+    }
+  },
+  {
+    "year": 1981,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.228,
+      "Arablelandoflandarea": 54.8
+    }
+  },
+  {
+    "year": 1982,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.224,
+      "Arablelandoflandarea": 54.9
+    }
+  },
+  {
+    "year": 1983,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.218,
+      "Arablelandoflandarea": 54.7
+    }
+  },
+  {
+    "year": 1984,
+    "values": {
+      "Arablelandhectares": 164000000,
+      "Arablelandhectaresperperson": 0.214,
+      "Arablelandoflandarea": 55
+    }
+  },
+  {
+    "year": 1985,
+    "values": {
+      "Arablelandhectares": 164000000,
+      "Arablelandhectaresperperson": 0.209,
+      "Arablelandoflandarea": 55
+    }
+  },
+  {
+    "year": 1986,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.204,
+      "Arablelandoflandarea": 55
+    }
+  },
+  {
+    "year": 1987,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.2,
+      "Arablelandoflandarea": 54.9
+    }
+  },
+  {
+    "year": 1988,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.195,
+      "Arablelandoflandarea": 54.8
+    }
+  },
+  {
+    "year": 1989,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.192,
+      "Arablelandoflandarea": 55
+    }
+  },
+  {
+    "year": 1990,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.188,
+      "Arablelandoflandarea": 55
+    }
+  },
+  {
+    "year": 1991,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.184,
+      "Arablelandoflandarea": 54.9
+    }
+  },
+  {
+    "year": 1992,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.179,
+      "Arablelandoflandarea": 54.7
+    }
+  },
+  {
+    "year": 1993,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.176,
+      "Arablelandoflandarea": 54.7
+    }
+  },
+  {
+    "year": 1994,
+    "values": {
+      "Arablelandhectares": 163000000,
+      "Arablelandhectaresperperson": 0.172,
+      "Arablelandoflandarea": 54.7
+    }
+  },
+  {
+    "year": 1995,
+    "values": {
+      "Arablelandhectares": 162000000,
+      "Arablelandhectaresperperson": 0.169,
+      "Arablelandoflandarea": 54.5
+    }
+  },
+  {
+    "year": 1996,
+    "values": {
+      "Arablelandhectares": 161000000,
+      "Arablelandhectaresperperson": 0.164,
+      "Arablelandoflandarea": 54.2
+    }
+  },
+  {
+    "year": 1997,
+    "values": {
+      "Arablelandhectares": 162000000,
+      "Arablelandhectaresperperson": 0.162,
+      "Arablelandoflandarea": 54.4
+    }
+  },
+  {
+    "year": 1998,
+    "values": {
+      "Arablelandhectares": 161000000,
+      "Arablelandhectaresperperson": 0.159,
+      "Arablelandoflandarea": 54.3
+    }
+  },
+  {
+    "year": 1999,
+    "values": {
+      "Arablelandhectares": 161000000,
+      "Arablelandhectaresperperson": 0.156,
+      "Arablelandoflandarea": 54.1
+    }
+  },
+  {
+    "year": 2000,
+    "values": {
+      "Arablelandhectares": 161000000,
+      "Arablelandhectaresperperson": 0.153,
+      "Arablelandoflandarea": 54.1
+    }
+  },
+  {
+    "year": 2001,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.15,
+      "Arablelandoflandarea": 53.9
+    }
+  },
+  {
+    "year": 2002,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.147,
+      "Arablelandoflandarea": 54
+    }
+  },
+  {
+    "year": 2003,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.144,
+      "Arablelandoflandarea": 53.7
+    }
+  },
+  {
+    "year": 2004,
+    "values": {
+      "Arablelandhectares": 160000000,
+      "Arablelandhectaresperperson": 0.142,
+      "Arablelandoflandarea": 53.7
+    }
+  },
+  {
+    "year": 2005,
+    "values": {
+      "Arablelandhectares": 159000000,
+      "Arablelandhectaresperperson": 0.139,
+      "Arablelandoflandarea": 53.6
+    }
+  },
+  {
+    "year": 2006,
+    "values": {
+      "Arablelandhectares": 159000000,
+      "Arablelandhectaresperperson": 0.137,
+      "Arablelandoflandarea": 53.4
+    }
+  },
+  {
+    "year": 2007,
+    "values": {
+      "Arablelandhectares": 158000000,
+      "Arablelandhectaresperperson": 0.134,
+      "Arablelandoflandarea": 53.1
+    }
+  },
+  {
+    "year": 2008,
+    "values": {
+      "Arablelandhectares": 158000000,
+      "Arablelandhectaresperperson": 0.132,
+      "Arablelandoflandarea": 53.1
+    }
+  },
+  {
+    "year": 2009,
+    "values": {
+      "Arablelandhectares": 158000000,
+      "Arablelandhectaresperperson": 0.13,
+      "Arablelandoflandarea": 53.1
+    }
+  },
+  {
+    "year": 2010,
+    "values": {
+      "Arablelandhectares": 157000000,
+      "Arablelandhectaresperperson": 0.128,
+      "Arablelandoflandarea": 52.8
+    }
+  },
+  {
+    "year": 2011,
+    "values": {
+      "Arablelandhectares": 157000000,
+      "Arablelandhectaresperperson": 0.126,
+      "Arablelandoflandarea": 52.8
+    }
+  },
+  {
+    "year": 2012,
+    "values": {
+      "Arablelandhectares": 157000000,
+      "Arablelandhectaresperperson": 0.124,
+      "Arablelandoflandarea": 52.7
+    }
+  },
+  {
+    "year": 2013,
+    "values": {
+      "Arablelandhectares": 157000000,
+      "Arablelandhectaresperperson": 0.123,
+      "Arablelandoflandarea": 52.8
+    }
+  },
+  {
+    "year": 2014,
+    "values": {
+      "Arablelandhectares": 0,
+      "Arablelandhectaresperperson": 0,
+      "Arablelandoflandarea": 0
+    }
+  },
+  {
+    "year": 2015,
+    "values": {
+      "Arablelandhectares": 0,
+      "Arablelandhectaresperperson": 0,
+      "Arablelandoflandarea": 0
+    }
+  }
+]
